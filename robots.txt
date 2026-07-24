@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://docs-4a7cme.cuankita.site/sitemap.xml
